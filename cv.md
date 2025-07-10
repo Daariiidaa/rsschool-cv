@@ -30,9 +30,10 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(3,5), 15);   
   });
 });
+```
+
 ## Experience
 I don’t have the experience yet.
-```
 
 ## Education
 -  2016-2019 - Minsk State College of Electronics, secretary-referent

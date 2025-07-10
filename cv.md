@@ -21,6 +21,7 @@ I'm self-motivated, responsible and hard working person. Currently, I am a fourt
 * JavaScript (basic)
 
 ## Code example
+```
 describe("Multiply", () => {
   it("fixed tests", () => {
     assert.strictEqual(multiply(1,1), 1);
@@ -31,6 +32,7 @@ describe("Multiply", () => {
 });
 ## Experience
 I don’t have the experience yet.
+```
 
 ## Education
 -  2016-2019 - Minsk State College of Electronics, secretary-referent

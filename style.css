@@ -1,4 +1,43 @@
-.container {
-  max-width: 1440px;
-  margin: 0 auto;
+html {
+  scroll-behavior: smooth;
 }
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; 
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.list-item {
+    margin-left: 18px;
+    font-weight: bold;
+    color:#1c60ff;
+    transition: 0.3s;
+}
+
+.navigation {
+    margin-top: 40px;
+}
+
+.skills-languages {
+    display:flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+ h1 {
+    color:#1c60ff;
+    font-size: 38px;
+ }

@@ -41,7 +41,7 @@ html {
 .skills-languages {
     display:flex;
     flex-direction: row;
-    gap: 80px;
+    gap: 70px;
 }
 
  h1 {
@@ -72,4 +72,17 @@ html {
 hr {
   width: 100%;
   border: 1px solid #1c60ff;
+}
+
+.photo-contasts {
+    display: flex;
+    gap: 80px;
+    flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.photo {
+    width: 250px;
 }

@@ -44,16 +44,16 @@ html {
     gap: 70px;
 }
 
- h1 {
+h1 {
     color:#1c60ff;
     font-size: 38px;
  }
 
-  h2 {
+h2 {
     color:#1c60ff;
   }
 
-  body {
+body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -85,4 +85,32 @@ hr {
 
 .photo {
     width: 250px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.github {
+    height: 50px;
+}
+
+.rsschool {
+    height: 50px;
+}
+
+.year {
+    color: #1c60ff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main {
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
